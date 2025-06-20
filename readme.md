@@ -1,5 +1,5 @@
 ## Fusion Retrieval & Reranking based RAG
-#### _An implementation of Fusion Retrieval based RAG, Reranking based RAG, and a Hybrid RAG that combines both._
+#### _An implementation and comparison of Fusion Retrieval based RAG, Reranking based RAG, and a Hybrid RAG that combines both._
 
 ---
 
